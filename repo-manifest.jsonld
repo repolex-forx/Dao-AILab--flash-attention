@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Dao-AILab/flash-attention/commit/965c9212e6be33c821ee9f2b461564c5c91a2503",
       "git:hexsha": "965c9212e6be33c821ee9f2b461564c5c91a2503",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Dao-AILab/flash-attention/commit/a365a1909c081744693177255a23c669c0f208fa",
